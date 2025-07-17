@@ -13,9 +13,12 @@ You can explore the full project presentation here:
 - [View on Google Slides](https://docs.google.com/presentation/d/1JtwqRxD3pqnRibVOWX6uFWpv6vg7fsZKVYJ5hDE_8DI/edit?usp=sharing)
 - [Download the PowerPoint file](https://github.com/brentlund/cyclistic-bike-share-analysis/blob/main/Cyclistic%20-%20Bike%20User%20Analysis.pptx)
 
-To see the R code used:
-- [View .R code](https://github.com/brentlund/cyclistic-bike-share-analysis/blob/main/cyclist_analysis.R)
-- [View code in text file](https://github.com/brentlund/cyclistic-bike-share-analysis/blob/main/cyclist_analysis.txt)
+## 🧾 R Script
+
+The analysis was performed in R using `tidyverse` and `lubridate`. You can view the code in your preferred format:
+
+- [View the R script (.R)](cyclistic_analysis.R)
+- [View as a plain text file (.txt)](cyclistic_analysis_code.txt)
 
 The presentation includes:
 - A summary of the business task and dataset
