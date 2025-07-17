@@ -11,7 +11,7 @@ You can explore the full project presentation here:
 
 - [View the presentation as a PDF](https://github.com/brentlund/cyclistic-bike-share-analysis/blob/main/Cyclistic%20-%20Bike%20User%20Analysis.pdf)
 - [View on Google Slides](https://docs.google.com/presentation/d/1JtwqRxD3pqnRibVOWX6uFWpv6vg7fsZKVYJ5hDE_8DI/edit?usp=sharing)
-- [Download the PowerPoint file](Cyclistic - Bike User Analysis.pptx](https://github.com/brentlund/cyclistic-bike-share-analysis/blob/main/Cyclistic%20-%20Bike%20User%20Analysis.pptx))
+- [Download the PowerPoint file]((https://github.com/brentlund/cyclistic-bike-share-analysis/blob/main/Cyclistic%20-%20Bike%20User%20Analysis.pptx)
 
 The presentation includes:
 - A summary of the business task and dataset
