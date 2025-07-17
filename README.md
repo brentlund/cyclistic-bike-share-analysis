@@ -17,8 +17,8 @@ You can explore the full project presentation here:
 
 The analysis was performed in R using `tidyverse` and `lubridate`. You can view the code in your preferred format:
 
-- [View the R script (.R)](cyclistic_analysis.R)
-- [View as a plain text file (.txt)](cyclistic_analysis_code.txt)
+- [View the R script (.R)](https://github.com/brentlund/cyclistic-bike-share-analysis/blob/main/cyclist_analysis.R)
+- [View as a plain text file (.txt)](https://github.com/brentlund/cyclistic-bike-share-analysis/blob/main/cyclist_analysis.txt)
 
 The presentation includes:
 - A summary of the business task and dataset
