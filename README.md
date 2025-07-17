@@ -5,7 +5,19 @@ Welcome to my portfolio. I'm a data analyst with a background in problem-solving
 ## Featured Project
 **Cyclistic Bike-Share Analysis**  
 Analyzed ride patterns for casual vs. member riders using Divvy bike-share data. Cleaned and prepared data in R, visualized key trends in Tableau, and developed marketing recommendations to support business goals.  
-[View the project repository](https://github.com/brentlund/cyclistic-bike-share-analysis)
+## 📊 Project Presentation
+
+You can explore the full project presentation here:
+
+- [View the presentation as a PDF]()
+- [View on Google Slides](https://docs.google.com/presentation/d/1JtwqRxD3pqnRibVOWX6uFWpv6vg7fsZKVYJ5hDE_8DI/edit?usp=sharing)
+- [Download the PowerPoint file]()
+
+The presentation includes:
+- A summary of the business task and dataset
+- Key findings from data analysis in R
+- Visualizations created in Tableau
+- Actionable recommendations for the Cyclistic marketing team
 
 ## Skills
 - Analysis & Visualization: Excel, R, Tableau, SQL
