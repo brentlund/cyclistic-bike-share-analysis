@@ -15,7 +15,7 @@ You can explore the full project presentation here:
 
 To see the R code used:
 - [View .R code](https://github.com/brentlund/cyclistic-bike-share-analysis/blob/main/cyclist_analysis.R)
-- View code in text file](https://github.com/brentlund/cyclistic-bike-share-analysis/blob/main/cyclist_analysis.txt)
+- [View code in text file](https://github.com/brentlund/cyclistic-bike-share-analysis/blob/main/cyclist_analysis.txt)
 
 The presentation includes:
 - A summary of the business task and dataset
