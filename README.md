@@ -9,9 +9,9 @@ Analyzed ride patterns for casual vs. member riders using Divvy bike-share data.
 
 You can explore the full project presentation here:
 
-- [View the presentation as a PDF]()
+- [View the presentation as a PDF](Cyclistic - Bike User Analysis.pdf)
 - [View on Google Slides](https://docs.google.com/presentation/d/1JtwqRxD3pqnRibVOWX6uFWpv6vg7fsZKVYJ5hDE_8DI/edit?usp=sharing)
-- [Download the PowerPoint file]()
+- [Download the PowerPoint file](Cyclistic - Bike User Analysis.pptx)
 
 The presentation includes:
 - A summary of the business task and dataset
